@@ -1,14 +1,34 @@
 # React + Vite
 
-online-food1.netlify.app
+**My App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Online-Food Service! 🌟
 
-Currently, two official plugins are available:
+This portfolio showcases my skills, projects, and experiences as a web developer. It's built with modern technologies and highlights my expertise in **HTML, CSS, JavaScript, Tailwind** and **React & Redux** .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**🚀 Live Demo**
 
-## Expanding the ESLint configuration
+Explore the live version of my app here: https://online-food1.netlify.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**📌 Features**
+
+Clean and Responsive Design: Optimized for all devices.
+
+**🛠️ Technologies Used**
+
+HTML5
+CSS3 (with modern styling techniques)
+JavaScript (ES6) 
+Tailwind
+React & Redux
+Netlify for deployment
+
+**🤝 Let's Connect**
+
+I'm always open to collaboration and opportunities. Feel free to reach out!
+
+**📧 Email:** [avneeshy532@gmail.com]
+
+**💼 LinkedIn:** [https://www.linkedin.com/in/ay-26a35a260]
+
+**🌐 GitHub:** [https://github.com/avneeshy532]
